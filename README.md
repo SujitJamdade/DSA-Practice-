@@ -1,2 +1,2 @@
 # DSA-Practice
-Self learning of Data strucure & Algorithms in C++
+# Self learning of Data strucure & Algorithms in C++
