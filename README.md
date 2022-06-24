@@ -1,3 +1,3 @@
 # DSA Practice
-# Self learning of Data strucure & Algorithms 
+# Self learning of Data structure & Algorithms 
 Java Basic + DSA
