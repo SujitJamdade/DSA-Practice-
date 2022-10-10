@@ -64,6 +64,5 @@ public class Pair_sum_divisible_by_K
 
                 System.out.println(count);
 
-                
-	}
+       }
 }
