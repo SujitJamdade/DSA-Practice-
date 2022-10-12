@@ -1,4 +1,4 @@
 # DSA Practice
 # Self learning of Data structure & Algorithms 
-Java Basic
-Functions
+1. Java Basic
+2. Functions
