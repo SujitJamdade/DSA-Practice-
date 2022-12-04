@@ -6,3 +6,4 @@
 4. OOP's
 5. Linked List
 6. Recursion
+7. Stack
