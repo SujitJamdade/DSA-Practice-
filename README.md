@@ -7,3 +7,5 @@
 5. Linked List
 6. Recursion
 7. Stack
+
+8. Queue 
