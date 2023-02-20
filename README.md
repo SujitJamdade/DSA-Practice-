@@ -9,6 +9,8 @@
 7. Stack
 8. Queue
 9. HashMap
+10.Binary Search
+
 
 
 
