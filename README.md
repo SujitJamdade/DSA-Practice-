@@ -1,5 +1,6 @@
 # DSA Practice
 # Self learning of Data structure & Algorithms 
+
 1. Java Basic
 2. Functions
 3. Sorting
@@ -9,7 +10,8 @@
 7. Stack
 8. Queue
 9. HashMap
-10.Binary Search
+10. Binary Search
+
 
 
 
