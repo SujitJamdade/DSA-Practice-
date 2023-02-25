@@ -11,7 +11,7 @@
 8. Queue
 9. HashMap
 10. Binary Search
-11. Binary Search
+11. Binary Search Tree
 
 
 
