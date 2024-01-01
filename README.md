@@ -6,12 +6,13 @@
 3. Sorting
 4. OOP's
 5. Linked List
-6. Recursion
-7. Stack
-8. Queue
-9. HashMap
-10. Binary Search
-11. Binary Search Tree
+6. Backtracking 
+7. Recursion
+8. Stack
+9. Queue
+10. HashMap
+11. Binary Search
+12. Binary Search Tree
 
 
 
